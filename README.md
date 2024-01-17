@@ -15,7 +15,7 @@ Podemos acceder a ellos desde
 
 ## **Desarrollo**
 
-### Datos⛔
+### Datos
 
 Para este proyecto se trabajó con la **Bases de Víctimas Fatales en Siniestros Viales** 
 Base datos HOMICIDIOS
@@ -27,7 +27,7 @@ que se encuentra en formato de Excel y contiene dos pestañas de datos:
 En este [documento](NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf) se detallan todas las definiciones manejadas en los datos y en el desarrollo de este proyecto. Por otra parte, en este [link](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales) se encuentran los datos utilizados en el análisis.
 
 
-### Análisis de los datos⛔
+### Análisis de los datos
 
 - Se analizan las variables numéricas del dataset su correlación por medio de una matriz, donde se encuentra una relación positiva entre las variables `Edad`y `Hora`
 - La máyoria de los siniestros resultan con una víctima fatal, rara vez involucran 3 víctimas.
@@ -47,7 +47,7 @@ Los horarios críticos de los siniestros viales están relacionados con los mome
 
 Para el caso de la variable `Participantes` de los sinietros; se analiza a `Acusados`, como el vehículo que tiene la responsabilidad del hecho, de lo que resultan los Autos, Colectivos y Vehículos de Carga como mayores involucrados. Para el análisis de las `Victimas`, que en momento del accidente resultaban mayormente en el **Rol** de Conductor o Peatón; y el siniestro se produce en la mayoría de los casos en Motos y luego como Peaton.
 
-### Indicadores de Rendimiento Clave KPI⛔
+### Indicadores de Rendimiento Clave KPI
 
 Una vez finalizado el Análisis Exploratorio, se utiliza el dataset resultante "data/siniestos_limpio.csv" y los extraidos de la página oficial de CABA con los datos de las comunas "data/comunas.xlsx"; para trabajar en la herramienta PowerBi a fin de obtener los KPI (Indicadores de Rendimiento Clave) y un `dashboard` de presentación del informe y Visualización de datos.
 
@@ -76,7 +76,7 @@ Se define la cantidad de accidentes fatales de peatones en siniestros viales com
 Cantidad de Accidentes Mortales en Moto = Tomando la variable `Victima` que se iguale a el campo [PEATON] del dataset 
 
 
-## **Conclusiones**⚠️ 🚧
+## **Conclusiones**
 
 A partir del análisis exahustivo de los datos y su posterior visualización a través del dashboard en PowerBi; se concluye que las víctimas fatales por siniestros de tránsito entre los años 2016 a 2021 fueron 717 personas.
 Que la franja horaria de mayor problemática es la del ingreso laboral (5-9h), la del almuerzo (12-14h)y la del regreso a casa(17-18h); aunque durante los fines de semana (Sábado y Domingo), los accidentes se manifiestan en los horarios de salidas nocturnas (3-7h).
