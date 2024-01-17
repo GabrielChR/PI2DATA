@@ -37,8 +37,7 @@ En este [documento](NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf) se detallan todas las d
 En el período 2016-2018 una tendencia alta , que luego baja debido al comienzo de la Pandemia por COVID19 durante 2020; luego de este período hay un pico de siniestros pero vuelve a bajar para los proximos trimestres.
 
 Los meses con más victimas fatales son **Diciembre** (86) y **Agosto**(71); mientras que los días de la semana **Sábado** (114) y **Domingo** (114) tienen la mayor cantidad de víctimas.
-![Relacion total eventos / año](/images/img años.png) 
-![Mapa deCalor](/images/img años.png)
+
 
 
 Los horarios críticos de los siniestros viales están relacionados con los momentos del ingreso a la jornada laboral (5-9h), el momento del almuerzo (12-14h) y la salida del trabajo (17-18h). Mientras que los fines de semana están relacionados con las salidas nocturnas (4-7h)
@@ -50,7 +49,7 @@ Para el caso de la variable `Participantes` de los sinietros; se analiza a `Acus
 
 ### Indicadores de Rendimiento Clave KPI⛔
 
-Una vez finalizado el Análisis Exploratorio, se utiliza el dataset resultante [Siniestros](data/siniestos_limpio.csv) y los extraidos de la página oficial de CABA con los datos de las comunas [Comunas](data/comunas.xlsx); para trabajar en la herramienta PowerBi a fin de obtener los KPI (Indicadores de Rendimiento Clave) y un `dashboard` de presentación del informe y Visualización de datos.
+Una vez finalizado el Análisis Exploratorio, se utiliza el dataset resultante "data/siniestos_limpio.csv" y los extraidos de la página oficial de CABA con los datos de las comunas "data/comunas.xlsx"; para trabajar en la herramienta PowerBi a fin de obtener los KPI (Indicadores de Rendimiento Clave) y un `dashboard` de presentación del informe y Visualización de datos.
 
 KPI Propuestos
 
