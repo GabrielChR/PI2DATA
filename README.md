@@ -68,7 +68,7 @@ Cantidad de Accidentes Mortales en Moto = Tomando la variable `Victima` que se i
 
 
 
- - **Reducir en un 15% la cantidad de accidentes con víctimas fatales de peatones en el último semestre, en CABA, respecto al semestre anterior.**
+ - **Reducir en un 5% la cantidad de accidentes del mayor responsable de accidentes  con respecto al del último semestre, en CABA.**
 
 Se define la cantidad de accidentes fatales de peatones en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que circulaban a pie en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas peaton es: (Número de accidentes mortales con víctimas peaton en el semestre anterior - Número de accidentes mortales con víctimas peaton en el semestre actual) / (Número de accidentes mortales con víctimas peaton en el semestre anterior) * 100
 
