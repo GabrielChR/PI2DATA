@@ -33,7 +33,7 @@ En este [documento](NOTAS_HOMICIDIOS_SINIESTRO_VIAL.pdf) se detallan todas las d
 - La máyoria de los siniestros resultan con una víctima fatal, rara vez involucran 3 víctimas.
   
 -`Análisis Temporal:` 
-![Relacion total eventos / año](/images/img años.png)
+![Relacion total eventos / año](/images/image.png)
 En el período 2016-2018 una tendencia alta , que luego baja debido al comienzo de la Pandemia por COVID19 durante 2020; luego de este período hay un pico de siniestros pero vuelve a bajar para los proximos trimestres.
 
 Los meses con más victimas fatales son **Diciembre** (86) y **Agosto**(71); mientras que los días de la semana **Sábado** (114) y **Domingo** (114) tienen la mayor cantidad de víctimas.
